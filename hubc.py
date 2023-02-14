@@ -996,4 +996,5 @@ import math
 #         c+=1
 # print(c)
 
-print(str(bin(int(input())))[2:].count('1'))
+# print(str(bin(int(input())))[2:].count('1'))
+
