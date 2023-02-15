@@ -196,7 +196,6 @@ def raqam_9():
     line.setText(f"{line.text()}9")
 def raqam_0():
     line.setText(f"{line.text()}0")
-yoz()
 # clear
 
 label_clear.clicked.connect(uchir)
